@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19726798-9abd-4b7e-8d5a-3321f946cf23" name="ToDoExample-1 Todo App 요구사항 명세서 작성" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ToDoExample.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/vcs.xml" afterDir="false" />
+    <list default="true" id="19726798-9abd-4b7e-8d5a-3321f946cf23" name="ToDoExample-1 Todo App 요구사항 명세서 작성" comment="Spring Application 추가">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ToDoExample/RecommendationsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/workspace.xml" afterDir="false" />
     </list>
     <list id="f9fe946a-62ce-49c6-8989-7d02f4219b67" name="Changes" comment="initial" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +30,13 @@
         </projects_view>
       </state>
     </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -124,7 +126,14 @@
       <option name="type" value="BUG" />
       <updated>1676349533701</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Spring Application 추가">
+      <created>1676350496901</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676350496901</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers>
       <GitHub url="https://github.com">
         <option name="repoAuthor" value="TaeheeWoo94" />
@@ -145,6 +154,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+    <MESSAGE value="Spring Application 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spring Application 추가" />
   </component>
 </project>
